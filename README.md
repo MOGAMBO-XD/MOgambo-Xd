@@ -13,8 +13,7 @@
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - <div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-
+ 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mogambo-Xd}/count.svg" /></p> 
 <br>
 </div>
